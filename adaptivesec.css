@@ -1,0 +1,1241 @@
+@media only screen and (max-width: 1440px){
+    .main__pattern{
+        width: 450px;
+        top: 330px;
+    }
+    .main__text{
+        font-size: 73px;
+    }
+    .main__item-logos li{
+        font-size: 30px;
+    }
+    .main__logo-item{
+        width: 65px;
+        height: 60px;
+    }
+    .main__container_additionally{
+        padding-left: 301px;
+    }
+    .main__pattern-after{
+        width: 1355px;
+    }
+    .main__text-fourth{
+        width: 542.54px;
+    }
+    .main__box-zone, .main__box-complex, .main__box-yurt, .main__box-bonfire{
+        width: 660px;
+    }
+    .main__games-sixth{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .main__box-goat{
+        margin-left: 175px;
+    }
+    .main__box-wrestling{
+        margin-left: 175px;
+        margin-bottom: 100px;
+        margin-top: 100px;
+    }
+    .main__right-click{
+        right: 111px;
+    }
+    .main__left-click{
+        left: 111px;
+    }
+    .main__right-ethno{
+        left: 1212px;
+    }
+    .main__left-ethno{
+        right: 1212px;
+    }
+    .main__duration-boxes{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .main__duration-arrivals{
+        margin-left: -400px;
+        margin-bottom: 100px;
+    }
+    .main__duration-contracts{
+        margin-right: -400px;
+        margin-bottom: 100px;
+    }
+    .main__icon-reviews img{
+        left: 671px;
+    }
+}
+
+/* /////////////////////////////// */
+
+@media only screen and (max-width: 1376px){
+    .main__pattern{
+        display: none;
+    }
+    .main__pattern-after {
+        width: 1280px;
+        top: -48px;
+    }
+    .item-first{
+        margin-left: -37px;
+    }
+    .main__right-ethno {
+        font-size: 120px;
+        top: 580px;
+        left: 1000px;
+
+    }   
+    .main__left-ethno {
+        font-size: 120px;
+        top: 580px;
+        right: 1000px;
+    }     
+}
+
+@media only screen and (max-width: 1352px){
+    .main__icon-reviews img{
+        left: 635px;
+    }
+}
+
+@media only screen and (max-width: 1336px){
+    .main__icon-reviews img{
+        left: 624px;
+    }
+    .main__container_additionally {
+        padding-left: 301px;
+    }
+}
+
+/* //////////////////////////// */
+
+
+
+/* Адаптивка для телефонов */
+
+@media only screen and (max-width: 768px){
+    .main__shadowelem{
+        display: none;
+    }
+    .main__text-sec{
+        padding-left: 58px;
+    }
+    .main__pattern{
+        display: none;
+    }
+    .item-first {
+        margin-left: -20px;
+    }
+    .main__text{
+        font-size: 64px;
+        margin-left: 45px;
+    }
+    .main__pattern-after{
+        display: none;
+    }
+    .main__icon-like-sec{
+        left: 490px;
+        top: -120px;
+        width: 60px;
+        height: 60px;
+        opacity: .5;
+    }
+    .main__text-fourth{
+        margin-left: -525px;
+    }
+    .main__icon-dollar{
+        right: -5px;
+    }
+    .main__icon-dollar-sec{
+        top: 205px;
+        opacity: .5;
+    }
+    .main__text-fifth{
+        margin-top: -200px;
+        padding-left: 100px;
+        font-size: 65px;
+    }
+    .main__text-sixth{
+        margin-left: -45px;
+        font-size: 55px;
+    }
+    .main__box-yurt{
+        margin-bottom: 80px;
+    }
+    .main__games-sixth{
+        margin-left: -85px;
+    }
+    .main__additionally-pricelist img {
+        width: 530px;
+        height: 385px;
+    }
+    .main__container_additionally{
+        padding-left: 135px;
+    }
+    .main__left-additionally{
+        top: 565px;
+        left: 25px;
+    }
+    .main__right-additionally{
+        top: 565px;
+        right: 60px;
+    }
+    .main__additionally-pricelist img{
+        margin-right: 966px;
+    }
+    .item-sec img{
+        margin-right: 972px ;
+    }
+    .item th img {
+        margin-right: 981px;
+    }
+    .item-frth img{
+        margin-right: 983px;
+    }
+    .mp-video{
+        width: 550px;
+        height: 350px;
+        margin-top: -100px;
+    }
+    .main__right-additionally{
+        top: 580px;
+    }
+    .main__box-goat::before, .main__box-catch::before, .main__box-wrestling::before, .main__box-shooting::before, .main__box-hunting::before {
+        display: none;
+    }
+    .main__text-seventh{
+        font-size: 70px;
+    }
+    .main__price-live{
+        font-size: 17px;
+        text-align: center;
+    }
+    .main__slider-first{
+        height: 525px;
+        margin-left: -83px;
+        border-radius: 0;
+    }
+    .main__standart-pricelist img{
+        width: 90px;
+        height: 90px;
+    }
+    .main__standart-span{
+        font-size: 25px;
+    }
+    .main__text-standart{
+        font-size: 20px;
+    }
+    .main__price-button{
+        width: 300px;
+        height: 45px;
+        font-size: 20px;
+    }
+    .main__left-click{
+        left: 25px;
+        font-size: 75px;
+    }
+    .main__right-click{
+        right: 25px;
+        font-size: 75px;
+    }
+    .main__breakfast-span{
+        font-size: 20px;
+        width: 635px;
+    }
+    .main__text-ninth{
+        margin-left: -40px;
+    }
+    .main__text-eighth {
+        margin-left: -45px;
+    }
+    .main__ethno-slider{
+        width: 100%;
+        height: 330px;
+    }
+    .main__ethno-text{
+        font-size: 25px;
+    }
+    .main__right-ethno{
+        left: 650px;
+        top: 257px;
+    }
+    .main__left-ethno{
+        left: 120px;
+        top: 257px;
+    }
+    .ethnoAdapFir{
+        margin-right: -10px;
+        margin-left: -200px;
+    }
+    .main__duration-boxes{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .main__duration-arrivals{
+        margin-left: 0;
+        margin-bottom: 100px;
+    }
+    .main__duration-contracts{
+        margin-right: 0;
+        margin-bottom: 100px;
+    }
+    .main__icon-reviews img{
+        left: 335px;
+    }
+    .main__text-credit{
+        font-size: 25px;  
+    }
+    .main__payment-information{
+        text-align: center;
+    }
+    .main__text-eleventh{
+        text-align: center;
+        margin-left: -100px;
+    }
+    .main__number-second::after{
+        display: none;
+    }
+    .main__number-first::after {
+        display: none;
+    }
+    .main__text-tenth{
+        font-size: 55px;
+    }
+    .main__reviews-pricelist{
+        margin-left: -220px;
+    }
+    .revAdaptivFir{
+        margin-right: 222px;
+    }
+    .revAdaptivSec{
+        margin-right: 222px;
+    }
+    .revAdaptivTh{
+        margin-right: 222px;
+    }
+    .revAdaptivFor{
+        margin-right: 222px;
+    }
+    .revAdaptivFif{
+        margin-right: 222px;
+    }
+    .revAdaptivSix{
+        margin-right: 210px;
+    }
+    .main__names-reviews{
+        font-size: 25px;
+    }
+    .main__review-comment {
+        font-size: 25px;
+
+    }
+    .main__left-reviews{
+        top: 480px;
+        left: 125px;
+    }
+    .main__right-reviews{
+        top: 480px;
+        right: 125px;
+    }
+    .main__numbers-end{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .main__number-first, .main__number-second{
+        margin-right: 0;
+    }
+
+}
+
+@media only screen and (max-width: 704px){
+    .main__text-fifth {
+        padding-left: 70px;
+        font-size: 65px;
+    }
+    .main__box-goat{
+        margin-left: 130px;
+    }
+    .main__box-catch{
+        margin-left: -44px;
+    }
+    .main__box-wrestling{
+        margin-left: 134px;
+    }
+    .main__box-shooting{
+        margin-left: -45px;
+    }
+    .main__box-hunting{
+        margin-left: -40px;
+    }
+    .item-first{
+        margin-right: -12px;
+        margin-left: -27px;
+    }
+    .item-sec{
+        margin-right: 0;     
+    }
+    .item-th{
+        margin-right: -1px;
+    }
+    .item-frth{
+        margin-right: -25px;
+    }
+    .main__slider-first{
+        margin-left: -110px ;
+    }
+    .main__text-ninth{
+        margin-left: -72px;
+        font-size: 65px;
+    }
+    .main__payment-span{
+        font-size: 25px;
+    }
+    .ethnoAdapFir{
+        margin-left: -237px;
+        margin-right: 8px;
+    }
+    .ethnoAdapSec{
+        margin-right: -10px;
+    }
+    .main__left-ethno {
+        left: 150px;
+    }
+    .main__right-ethno {
+        left: 550px;
+    }
+    .main__text-tenth{
+        margin-left: -30px;
+    }
+    .main__reviews-pricelist {
+        margin-left: -256px;
+        margin-right: 256px;
+    }
+    .main__icon-reviews img {
+        left: 300px;
+    }
+    .main__gmail-end{
+        font-size: 30px;
+    }
+    .main__number-first, .main__number-second, .main__number-third{
+        font-size: 30px;
+    }
+}
+
+@media only screen and (max-width: 321px){
+    .revAdaptivFir {
+        margin-left: -407px;
+    }
+    .main__icon-reviews img {
+        left: 170px;
+    }
+    .main__container-fourth {
+        margin-left: -8px;
+    }
+}
+
+@media only screen and (max-width: 426px){
+    .main__logo-item{
+        width: 43px;
+        height: 40px;
+        margin-left: -30px;
+    }
+    .main__pattern-sec{
+        display: none;
+    }
+    .main__item-logos li{
+        margin-left: -40px;
+        font-size: 20px;
+        margin-top: -10px;
+    }
+    .main__text{
+        font-size: 30px;
+        margin-left: -43px;
+        width: 300px;
+        line-height: 2;
+    }
+    .main__container{
+        height: 515px;
+    }
+    .main__shadow-sec{
+        top: 292px;
+    }
+    .main__text-sec{
+        margin-left: -109px;
+        font-size: 55px;
+    }
+    .main__text-thr{
+        margin-left: -58px;
+        font-size: 20px;
+        width: 310.93px;
+    }
+    .main__text-fourth{
+        margin-top: 261px;
+        font-size: 20px;
+        width: 310.93px;
+        margin-left: -308px;
+    }
+    .main__icon-dollar-sec{
+        display: none;
+    }
+    .main__icon-like-sec{
+        display: none;
+    }
+    .main__icon-dollar{
+        margin-top: 30px;
+    }
+    .main__text-fifth{
+        font-size: 35px;
+        width: 300px;
+        line-height: 2;
+        margin-top: -255px;
+    }
+    .main__box-zone, .main__box-complex, .main__box-yurt, .main__box-bonfire {
+        font-size: 16px;
+        line-height: 2;
+        height: 177px;
+        width: 357px;
+    }
+    .main__boxes-fifth{
+        margin-top: -222px;
+    }
+    .main__box-yurt{
+        padding-top: 100px;
+    }
+    .main__box-bonfire{
+        padding-top: 50px;
+    }
+    .main__text-sixth{
+        font-size: 43px;
+        margin-left: -80px;
+    }
+    .main__box-goat img, .main__box-catch img, .main__box-wrestling img, .main__box-shooting img, .main__box-hunting img {
+        width: 330px;
+        height: 235px;
+    }
+    .main__box-goat::after , .main__box-catch::after ,.main__box-wrestling::after, .main__box-shooting::after, .main__box-hunting::after {
+        display: none;
+    }
+    .main__goat-text{
+        font-size: 28px;
+        transform: rotate(0deg);
+        margin-top: 50px;
+        right: 252px;
+    }
+    .main__catch-text{
+        font-size: 28px;
+        transform: rotate(0deg);
+        margin-top: 50px;
+        top: 157px;
+        right: -121px;
+    }
+    .main__wrestling-text{
+        font-size: 28px;
+        transform: rotate(0deg);
+        margin-top: 50px;
+        top: 157px;
+        right: 169px;
+    }
+    .main__shooting-text{
+        font-size: 28px;
+        transform: rotate(0deg);
+        margin-top: 50px;
+        top: 157px;
+        right: -10px;
+    }
+    .main__hunting-text{
+        font-size: 28px;
+        transform: rotate(0deg);
+        margin-top: 50px;
+        top: 188px;
+        right: 10px;
+    }
+    .main__games-sixth{
+        margin-top: -200px;
+    }
+    .main__additionally-pricelist img{
+        width: 296px;
+        height: 216px;
+        margin-right: 979px;
+    }
+    .main__container_additionally {
+        height: 365px;
+        padding-left: 112px;
+    }
+    .item-first {
+        margin-right: -12px;
+        margin-left: -58px;
+    }
+    .main__left-additionally {
+        top: 204px;
+        left: -22px;
+        font-size: 57px;
+    }
+    .main__right-additionally {
+        top: 270px;
+        z-index: 1000;
+        right: 58px;
+        font-size: 57px;
+    }
+    .main__additionally-additionally{
+        margin-top: -30px;
+    }
+    .item-first{
+        margin-right: 220px;
+    }
+    .item-sec{
+        margin-right: 237px;
+    }
+    .item-th{
+        margin-right: 204px;
+    }
+    .item-frth{
+        margin-right: 213px;
+    }
+    .mp-video {
+        width: 358px;
+        height: 358px;
+        margin-top: -127px;
+    }
+    .main__text-seventh {
+        font-size: 46px;
+        line-height: 1.5;
+        margin-left: -90px;
+    }
+    .main__container-fifth{
+        margin-top: 80px;
+    }
+    .main__text-seventh{
+        margin-bottom: 20px;
+    }
+    .main__price-live{
+        line-height: 2;
+        font-size: 14px;
+    }
+    .main__slider-slider{
+        margin-left: -150px;
+    }
+    .main__right-click{
+        top: 380px;
+        font-size: 58px;
+        right: 64px;
+    }
+    .main__left-click{
+        top: 380px;
+        font-size: 58px;
+        left: 64px;
+
+
+    }
+    .main__standart-pricelist img{
+        width: 60px;
+        height: 60px;
+    }
+    .main__standart-span {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    .main__text-standart {
+        font-size: 15px;
+        line-height: 2;
+    }
+    .main__price-button {
+        width: 205px;
+        height: 32px;
+        font-size: 13px;
+        margin-top: -30px;
+    }
+    .main__slider-first {
+        height: 322px;
+    }
+    .main__text-eighth{
+        font-size: 44px;
+        line-height: 1.5;
+        margin-left: -50px;
+        width: 355px;
+    }
+    .main__text-breakfast{
+        margin-bottom: -150px;
+        height: 215px;
+    }
+    .main__breakfast-span {
+        font-size: 13px;
+        line-height: 2;
+        margin: 10px;
+    }
+    .main__text-ninth {
+        margin-left: -90px;
+        font-size: 40px;
+        line-height: 2;
+        margin-bottom: 30px;
+    }
+    .main__payment-span {
+        font-size: 15px;
+    }
+    .main__text-payment {
+        height: 167px;
+    }
+    .ethnoAdapFir {
+        margin-left: 79px;
+        margin-right: 456px;
+        width: 272px;
+        margin-bottom: -10px;
+    }
+    .ethnoAdapSec {
+        margin-right: -10px;
+        width: 304px;
+        margin-left: 457px;
+    }
+    .ethnoAdapTh {
+        margin-right: -10px;
+        width: 304px;
+        margin-left: 909px;
+        margin-top: -10px;
+    }
+    .ethnoAdapFouth {
+        margin-right: -10px;
+        width: 304px;
+        margin-left: 909px;
+    }
+    .ethnoAdapFif {
+        margin-right: -10px;
+        width: 304px;
+        margin-left: 909px;
+    }
+    .ethnoAdapSix {
+        margin-right: -10px;
+        width: 304px;
+        margin-left: 909px;
+    }
+    .main__ethno-text {
+        font-size: 15px;
+        line-height: 2;
+        margin-top: -43px;
+    }
+    .main__ethno-slider {
+        height: 181px;
+    }
+    .main__left-ethno {
+        top: 170px;
+        font-size: 76px;
+        left: 100px;
+    }
+    .main__right-ethno {
+        top: 170px;
+        font-size: 76px;
+        left: 327px;
+    }
+    .main__text-tenth {
+        margin-left: -106px;
+        line-height: 2;
+        font-size: 40px;
+        text-align: center;
+        width: 500px;
+        margin-bottom: 90px;
+    }
+    .main__icon-arrivals img, .main__icon-contracts img, .main__icon-placement img, .main__icon-credit img {
+        width: 65px;
+        height: 65px;
+    }
+    .main__icon-arrivals img{
+        margin-left: 33px;
+    }
+    .main__text-arrivals{
+        line-height: 2;
+        font-size: 19px;
+        width: 320px;
+        margin-left: 76px;
+    }
+    .main__text-contracts{
+        line-height: 2;
+        font-size: 19px;
+        width: 320px;
+        margin-left: 93px;
+    }
+    .main__text-placement{
+        line-height: 2;
+        font-size: 19px;
+        width: 320px;
+        margin-left: 82px;
+    }
+    .main__duration-arrivals{
+        height: 375px;
+        width: 440px;
+    }
+    .main__duration-placement {
+        height: 303px;
+    }
+    .main__text-credit{
+        font-size: 19px;
+    }
+    .main__text-eleventh{
+        margin-top: -100px;
+        font-size: 40px;
+        line-height: 2;
+        width: 443px;
+        margin-left: -98px;
+    }
+    .main__reviews-pricelist {
+        margin-left: -393px;
+        margin-right: 393px;
+    }
+    .main__review-comment {
+        font-size: 11px;
+    }
+    .main__names-reviews {
+        font-size: 18px;
+    }
+    .main__icon-reviews img {
+        left: 188px;
+        width: 55px;
+        height: 55px;
+        top: 19px;
+    }
+    .main__reviews-reviews{
+        margin-top: 60px;
+    }
+    .main__slider-third{
+        height: 281px;
+    }
+    .main__left-reviews {
+        top: 278px;
+        left: 64px;
+        font-size: 58px;
+    }
+    .main__right-reviews{
+        top: 278px;
+        font-size: 58px;
+        right: 64px;
+    }
+    .main__text-end{
+        font-size: 26px;
+    }
+    .main__gmail-end{
+        font-size: 18px;
+        margin-top: -16px;
+    }
+    .main__number-first, .main__number-second, .main__number-third {
+        font-size: 18px;
+        line-height: 2;
+    }
+    .main {
+        height: 10870px;
+    }
+    .main__container-end {
+        margin-top: 135px;
+        width: 100%;
+        height: 291px;
+       }
+}
+
+@media only screen and (max-width: 391px){
+    .main__text {
+        font-size: 30px;
+        margin-left: -68px;
+    }
+    .main__games-sixth {
+        margin-left: -100px;
+    }
+    
+    
+}
+
+@media only screen and (max-width: 380px){
+    .revAdaptivFir{
+        margin-left: -417px;
+        margin-right: 393px;
+    }
+    .main__icon-reviews img {
+        left: 168px;
+    }
+    .main__text {
+        font-size: 30px;
+        margin-left: -77px;
+    }
+    .main__games-sixth {
+        margin-left: -103px;
+    }
+    .main__right-ethno {
+        top: 187px;
+        font-size: 58px;
+        left: 327px;
+    }
+    .main__left-ethno {
+        top: 187px;
+        font-size: 58px;
+        left: 100px;
+    }
+    .main__text-tenth {
+        padding-left: 145px;
+    }
+    .ethnoAdapFir {
+        margin-left: 59px;
+    }
+    .ethnoAdapTh {
+        margin-right: -21px;
+    }
+    .item-first {
+    margin-right: 206px;
+    margin-left: -78px;
+    }
+}
+
+@media only screen and (max-width: 376px){
+    .item-first {
+        margin-right: 215px;
+        margin-left: -64px;
+    }
+    /* .main__additionally-pricelist img {
+        margin-right: 966px;
+    }
+    .item-sec {
+        margin-right: 245px;
+    }
+    .item-sec {
+        margin-right: 265px;
+    } */
+    .main {
+        height: 10392px;
+    }
+    .main__text {
+        margin-left: -71px;
+    }
+    .ethnoAdapFir {
+        margin-right: 477px;
+        margin-left: 81px;
+    }
+    .ethnoAdapSec {
+        margin-right: 16px;
+    }
+    .ethnoAdapTh {
+        margin-right: 21px;
+    }
+    .ethnoAdapFouth {
+        margin-right: 23px;
+    }
+    .ethnoAdapFif {
+        margin-right: 21px;
+    }
+    .main__container-sec {
+        width: 1920px;
+        height: 1100px;
+        margin-left: -23px;
+    }
+    .main__text-sec{
+        margin-left: -80px;
+        font-size: 40px;
+        margin-left: -68px;
+        /* width: 50px; */
+    }
+    .main__icon-like{
+        width: 72px;
+        height: 72px;
+        left: -22px;
+    }
+    .main__text-thr {
+        font-size: 19px;
+    }
+    .main__text-fourth {
+        margin-top: 261px;
+        font-size: 19px;
+    }
+    .main__container-fourth{
+        margin-left: -24px;
+    }
+    .main__container_additionally{
+        margin-left: -24px ;
+        width: 108%;
+    }
+    .mp-video {
+        width: 325px;
+        height: 325px;
+    }
+    .main__slider-slider {
+        margin-left: -173px;
+    }
+    .main__text-standart{
+        width: 220px;
+    }
+    .main__breakfast-span {
+        font-size: 15px;
+        width: 270px;
+    }
+    .main__text-breakfast {
+        height: 210px;
+    }
+    .main__text-eighth {
+        margin-bottom: 32px;
+        margin-left: -105px;
+    }
+    .main__container-seventh{
+        margin-left: -26px;
+    }
+    .main__payment-span {
+        font-size: 15px;
+        margin-right: -28px;
+    }
+    .main__ethno-slider {
+        height: 245px;
+    }
+    .main__right-ethno {
+        top: 270px;
+    }
+    .main__left-ethno {
+        top: 270px;
+    }
+    .main__icon-reviews img {
+        left: 193px;
+    }
+    .main__right-ethno {
+        top: 270px;
+    }
+    .revAdaptivFir {
+        margin-left: -390px;
+    }
+    
+    .main__text-tenth {
+        margin-left: -134px;
+    }
+    .main__container-ninth{
+        margin-left: -30px;
+    }
+    .main__left-reviews {
+        top: 280px;
+        left: 110px;
+    }
+    .main__text-sixth{
+        line-height: 1;
+    }
+    .main__price-live {
+        font-size: 12px;
+    }
+    .main__text-seventh{
+        font-size: 40px;
+    }
+    .main__ethno-text{
+        width: 271px;
+    }
+    .main__review-comment {
+        font-size: 11px;
+        line-height: 26px;
+    }
+    .adapTex{
+        font-size: 9px;
+    }
+    .main__text-credit {
+        font-size: 12px;
+    }
+    .main__text-placement {
+        line-height: 2;
+        font-size: 12px;
+    }
+    .main__text-contracts {
+        line-height: 2;
+        font-size: 12px;
+    }
+    .main__duration-contracts {
+        height: 283px;
+    }
+    .main__text-arrivals {
+        line-height: 2;
+        font-size: 12px;
+    }
+    .main__duration-arrivals {
+        height: 292px;
+    }
+}
+
+@media only screen and (max-width: 342px){
+    .main__slider-slider {
+        margin-left: -189px;
+    }
+}
+
+@media only screen and (max-width: 321px){
+    .main__text {
+        margin-left: -103px;
+        margin-top: 71px;
+    }
+    .main__text-eighth {
+        margin-bottom: 32px;
+        margin-left: -131px;
+        font-size: 37px;
+    }
+    .main__container-sec {
+        margin-left: -53px;
+    }
+    .main__icon-like{
+        left: 3px;
+    } 
+    .main__text-thr {
+        font-size: 15px;
+    }
+    .main__text-fourth {
+        margin-top: 203px;
+        font-size: 15px;
+    }
+    .main__text-fifth {
+        padding-left: 21px;
+        margin-top: -399px;
+    }
+    .main__icon-zone, .main__icon-complex{
+        width: 65px;
+        height: 65px;
+    }
+    .main__icon-yurt, .main__icon-bonfire{
+        width: 65px;
+        height: 65px;
+        left: 34px;
+    }
+    .main__box-yurt span {
+        width: 185.89px;
+    }
+    .main__box-bonfire span {
+        width: 189.89px;
+    }
+    .main__box-goat img, .main__box-catch img, .main__box-wrestling img, .main__box-shooting img, .main__box-hunting img {
+        width: 277px;
+        height: 179px;
+    }
+    .main__goat-text {
+        margin-top: -14px;
+    }
+    .main__catch-text {
+        margin-top: -8px;
+        top: 157px;
+        right: -139px;
+    }
+    .main__wrestling-text {
+        margin-top: 50px;
+        top: 96px;
+        right: 141px;
+    }
+    .main__shooting-text {
+        margin-top: 50px;
+        top: 100px;
+        right: -38px;
+    }
+    .main__hunting-text {
+        margin-top: 50px;
+        top: 134px;
+        right: -12px;
+    }
+    .main__additionally-pricelist img {
+        width: 229px;
+        height: 169px;
+        margin-right: 1034px;
+
+    }
+    .item-first{
+        margin-right: 223px;
+        margin-left: -58px;
+    }
+    .item-sec{
+        margin-right: 247px;
+    }
+    .item-th {
+        margin-right: 223px;
+    }
+    .item-frth {
+        margin-right: 227px;
+    }
+    .mp-video {
+        width: 275px;
+    }
+    .main__price-live {
+        font-size: 10px;
+    }
+    .main__slider-slider {
+        margin-left: -200px;
+    }
+    .main__text-ninth {
+        margin-left: -90px;
+        font-size: 34px;
+    }
+    .main__payment-span {
+        font-size: 13px;
+    }
+    .ethnoAdapFir {
+        margin-left: 55px;
+        margin-right: 470px;
+    }
+    .ethnoAdapSec {
+        margin-right: 24px;
+        font-size: 13px;
+    }
+    .ethnoAdapTh {
+        margin-right: 18px;
+    }
+    .ethnoAdapFouth{
+        font-size: 17px;
+        margin-top: -34px;
+    }
+    .ethnoAdapFif{
+        font-size: 17px;
+        margin-top: -34px;
+    }
+    .main__left-ethno {
+        top: 254px;
+    }
+    .main__right-ethno {
+        top: 254px;
+        left: 276px;
+    }
+    .main__text-tenth {
+        margin-left: -157px;
+        font-size: 39px;
+        width: 463px;
+    }
+    .main__reviews-pricelist {
+        margin-left: -415px;
+        margin-right: 416px;
+    }
+    .main__icon-reviews img {
+        left: 171px;
+    }
+    .main__left-reviews {
+        top: 279px;
+    }
+    .main__text-placement {
+        line-height: 2;
+        width: 313px;
+    }
+    .main {
+        height: 9782px;
+    }
+    .main__text-eleventh {
+        margin-bottom: 71px;
+        font-size: 31px;
+    }
+    .adapTexSec{
+        font-size: 12px;
+        width: 183px;
+
+    }
+    .adapTex{
+        width: 232px;
+        font-size: 12px;
+    }
+    .adapTexFrh{
+        width: 219px;
+        font-size: 12px;
+    }
+    .modal__lang ul{
+        display: flex;
+        flex-direction: row;
+    }
+    .main__item-logos li {
+        margin-left: -40px;
+        font-size: 17px;
+    }
+    .modal__lang {
+        height: 62px;
+    }
+}
